@@ -37,15 +37,8 @@ Weather-Application/
 ## Screenshots
 
 ### Home Page
-<img width="587" height="872" alt="Screenshot 2026-07-20 165232" src="https://github.com/user-attachments/assets/3a9aca07-0535-4aeb-ba4e-293dee5080ec" />
+<img width="587" height="872" alt="Screenshot" src="https://github.com/user-attachments/assets/3a9aca07-0535-4aeb-ba4e-293dee5080ec" />
 
-![Home Page](screenshots/Screenshot 2026-07-20 165232.png)
-
-### Search Result
-
-![Search Result](images/weather-result.png)
-
----
 
 ## How to Run
 
