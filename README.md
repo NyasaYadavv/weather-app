@@ -38,7 +38,7 @@ Weather-Application/
 
 ### Home Page
 
-![Home Page](images/home-page.png)
+![Home Page](screenshots/Screenshot 2026-07-20 165232.png)
 
 ### Search Result
 
